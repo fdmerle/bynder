@@ -16,7 +16,8 @@ Prerequisites
 
 Clone the repo:
 -------------
-git clone -b master 
+git clone -b master https://github.com/fdmerle/bynder.git
+
 
 
 Run UI test
