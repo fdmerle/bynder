@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™Á·œ8è°¢‡2J$89299182-f137-4e82-9421-b39305579b59
+š
+java:S1104"WMake loadingTime a static final constant or non-public and provide accessors if needed.(ñ¿ÖŠ8é°¢‡2J$48d8e444-6ca2-47a4-b67e-28a6ddccb32f
+t
+java:S1444"1Make this "public static loadingTime" field final(ñ¿ÖŠ8é°¢‡2J$77dd142e-383c-4b53-95d3-6f8c0429db26
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(ì½ğÿÿÿÿÿ8÷°¢‡2J$23240a63-142c-458d-b7b8-739e48d990f3

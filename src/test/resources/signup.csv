@@ -1,0 +1,5 @@
+Login             ,Password,LoginText,Status
+merle@themerle.nl ,P@dmytro!!!@ ,You have entered an incorrect username or password,failed
+dmytro!!!@#$      ,dmytro!!!@#$  ,You have entered an incorrect username or password.,failed
+dmytro!!123       ,P@ssw0rd123,You have entered an incorrect username or password.,failed
+merle@themerle.nl ,P@ssw0rd123 ,Assets,passed
